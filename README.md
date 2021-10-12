@@ -2,8 +2,6 @@
 I am currently studying Mechanical Engineering at Universidade Federal Fluminense 🔭
 
 I am currently learning data science
-
- I’m looking to collaborate on python projects
  
  my personal email is leandrosouza@id.uff.br 💬 
 <!--
